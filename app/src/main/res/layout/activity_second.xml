@@ -10,7 +10,8 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:text="text"
-        tools:ignore="MissingConstraints" />
+        tools:ignore="MissingConstraints"
+        android:layout_margin="@dimen/material_emphasis_medium"/>
 <LinearLayout
     android:layout_width="wrap_content"
     android:layout_height="match_parent"
